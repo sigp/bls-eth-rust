@@ -6,6 +6,7 @@ description = "BLS signature library for Ethereum 2.0"
 license = "BSD-3-Clause OR MIT OR Apache-2.0"
 edition = "2018"
 repository = "https://github.com/herumi/bls-eth-rust"
+links = "bls384_256"
 
 [[bench]]
 name = "bls381_benches"
